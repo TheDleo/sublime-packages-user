@@ -1,0 +1,25 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AngularJS",
+		"Blade Snippets",
+		"Emmet",
+		"Gitignore",
+		"Ionic Framework Snippets",
+		"Laravel 4 Snippets",
+		"Package Control",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeLinter-php",
+		"VCS Gutter",
+		"Xdebug Client"
+	]
+}
