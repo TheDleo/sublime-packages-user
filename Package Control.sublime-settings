@@ -6,12 +6,16 @@
 	[
 		"AngularJS",
 		"Blade Snippets",
+		"Colorsublime",
 		"Emmet",
 		"Gitignore",
 		"Ionic Framework Snippets",
 		"Laravel 4 Snippets",
+		"Laravel Blade Highlighter",
 		"Package Control",
 		"SCSS",
+		"Seti_UI",
+		"Seti_UX",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
@@ -19,6 +23,7 @@
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
 		"SublimeLinter-php",
+		"Themr",
 		"VCS Gutter",
 		"Xdebug Client"
 	]

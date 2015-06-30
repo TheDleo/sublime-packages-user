@@ -1,9 +1,11 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"color_scheme": "Packages/Colorsublime - Themes/Afterglow.tmTheme",
 	"font_size": 11,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"VCS Gutter",
 		"Vintage"
-	]
+	],
+	"theme": "Default.sublime-theme"
 }
